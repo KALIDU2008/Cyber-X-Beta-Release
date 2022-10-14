@@ -39,7 +39,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['94781724230'] //ur owner number
 global.ownername = "᳆⃞⃚̂̂̂̂😈𝖗𝖊𝖆𝖑⃟🏴‍☠️𝖐𝖆𝖑𝖎𝖉𝖚 ⃟🇱🇰⃟" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: SLBRO228" //ur github or insta name
+global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
@@ -49,13 +49,13 @@ global.botnumber = '94781724230' //Add your Bot Number For Log
 global.botname = ' 🅼🅶  𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙾𝚃' //ur bot name
 global.ig = "https://chat.whatsapp.com/BiWND7g0whl8uWsvCjZi3X" //your theme url which will be displayed on whatsapp
 global.myweb = "https://chat.whatsapp.com/BiWND7g0whl8uWsvCjZi3X" //ur website to be displayed
-global.sc = 'https://chat.whatsapp.com/BiWND7g0whl8uWsvCjZi3X' //script link
+global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "💃" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = " 🅼🅶  𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙾𝚃" //ur sticker watermark packname
 global.author = " 🅼🅶  𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙾𝚃" //ur sticker watermark author
-global.footer = "𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 ᳆⃞⃚̂̂̂̂😈𝖗𝖊𝖆𝖑⃟🏴‍☠️𝖐𝖆𝖑𝖎𝖉𝖚 ⃟🇱🇰⃟."
+global.footer = "🇱🇰⃟ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚁𝙴𝙰𝙻 𝙺𝙰𝙻𝙸𝙳𝚄 ⃟🇱🇰"
 global.aliveimg ="https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
 global.allmenuimg ="https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
 global.welcomeimg= "https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
