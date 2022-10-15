@@ -60,22 +60,7 @@ global.aliveimg ="https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
 global.allmenuimg ="https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
 global.welcomeimg= "https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
 global.gbyeimg = "https://telegra.ph/file/1e2a530ffd192bf5fe975.jpg"
-global.alivemsg = "❤️‍🔥 🅱︎🅾︎🆃 🆂🆈🆂🆃🅴🅼  ❤️‍🔥
-
-
-     ✅ ᴮᴼᵀ ᴼᴺᴸᴵᴺᴱ ᴺᴼᵂ 🤖
-
-     ✅   ℍ𝔼𝕃𝕃𝕆...... 👋 
-
-     ✅    𝐼'𝑀 🅼🅶  𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚋𝚘𝚝
-
-    ✅  𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐊𝐀𝐋𝐈𝐃𝐔
-
-    ✅ †håñk £ðr µ§ïñg   ðµr §êrvï¢ê
-
-    ☑️ ALL RIGHT  RESERVERD 
-
-       ╚═══❖•ೋ° °ೋ•❖═══╝"
+global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
